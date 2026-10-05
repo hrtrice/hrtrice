@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Hunter Trice 👋
 
-<!--
-**hrtrice/hrtrice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior PM (B2B SaaS, AI-enabled product development) who ships. Ex-Navy officer, UCLA MBA. Looking for my next senior product role.
 
-Here are some ideas to get you started:
+## Professional work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+_Coming soon._
+
+## Fun projects
+
+- [initiative-tracker](https://github.com/hrtrice/initiative-tracker): a real-time D&D turn-order tracker (Svelte 5, Express, WebSockets) for my game nights
+
+## Elsewhere
+
+- [LinkedIn](https://linkedin.com/in/hunter-trice)
